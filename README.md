@@ -1,1 +1,2 @@
-# AdapLoRa
+# Data description
+The data from the end devices are collected to the gateways on different locations in these csv files. Since we evaluated the performance of AdapLoRa with different number of gateways, there are four groups of the traces, represented by: "1gw-xxx.csv", "2gw-xxx.csv", "3gw-xxx.csv", "4gw-xxx.csv". With multiple gateways, the traces are further divided into multiple sub-groups, e.g., "2gw-main-xxx.csv" means the gateway is deployed on the main building of our campus, and "2gw-lib-xxx.csv" means the gateway is on the library.
